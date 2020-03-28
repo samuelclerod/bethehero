@@ -11,6 +11,7 @@ export default function Register() {
             <div className="content">
                 <section>
                     <img src={logo} alt="be the hero" />
+                    <h1>Cadastrar ONG</h1>
                     <p>Faça seu cadastro, entre na plataforma e ajude pessoas a encontrarem os casos da sua ONG</p>
 
                     <Link className="backlink" to="/">
